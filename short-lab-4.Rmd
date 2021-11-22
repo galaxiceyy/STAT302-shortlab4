@@ -1,0 +1,37 @@
+---
+title: "Short Lab 4"
+author: "Ruobing Chen"
+date: "11/21/21"
+output: html_document
+---
+
+
+## Part 1. Set up Git and GitHub
+
+1. Register for a (free) [GitHub](https://github.com/) account. You may want to also add the [Student Developer Pack](https://education.github.com/pack) to your account. [Slide](https://peteragao.github.io/STAT302-AUT2021/files/slides/07_debuggit.html#60)
+
+2. Install Git on your computer. [Slide](https://peteragao.github.io/STAT302-AUT2021/files/slides/07_debuggit.html#54)
+
+3. Introduce yourself to Git. [Slide](https://peteragao.github.io/STAT302-AUT2021/files/slides/07_debuggit.html#61)
+
+4. Introduce your computer to GitHub. [Slide](https://peteragao.github.io/STAT302-AUT2021/files/slides/07_debuggit.html#63)
+
+5. Create a Git repo for Short Lab 4 and clone it to your computer. [Slide](https://peteragao.github.io/STAT302-AUT2021/files/slides/07_debuggit.html#66)
+
+6. Commit a local change using the shell. [Slide](https://peteragao.github.io/STAT302-AUT2021/files/slides/07_debuggit.html#67)
+
+7. Delete your local repository, then use RStudio to clone your repository back to your computer and commit a local change using RStudio. [Slide](https://peteragao.github.io/STAT302-AUT2021/files/slides/07_debuggit.html#71)
+
+8. If you use a private repository, add me and the grader as collaborators.
+
+## Part 2. Send us your repository
+
+Please type only the link to your repository using the template below. Fill in both the square brackets `[]` and the parentheses `()` with your link.
+
+[https://github.com/galaxiceyy/STAT302-shortlab4.git](https://github.com/galaxiceyy/STAT302-shortlab4.git)
+
+Here's a checklist of what we should see at the link above:
+
+1. A `README.md` file with two lines indicating that it has been edited through shell on your local computer as well as through RStudio.
+2. A `.Rmd` file for Short Lab 4.
+3. A `.html` file for Short Lab 4.
